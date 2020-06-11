@@ -1,0 +1,38 @@
+{
+	"name": "open-mensa",
+	"version": "1.0.0",
+	"description": "A node API wrapper for openmensa.org",
+	"main": "index.js",
+	"scripts": {
+		"test": "ava"
+	},
+	"keywords": [
+		"mensa"
+	],
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"eslint": "^6.1.0",
+		"eslint-config-airbnb": "^18.0.1",
+		"eslint-config-prettier": "^6.1.0",
+		"eslint-config-standard": "14.1.0",
+		"eslint-plugin-import": "^2.18.2",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
+		"eslint-plugin-node": "^9.1.0",
+		"eslint-plugin-prettier": "^3.1.0",
+		"eslint-plugin-promise": "^4.2.1",
+		"eslint-plugin-react": "^7.14.3",
+		"eslint-plugin-react-hooks": "^1.7.0",
+		"eslint-plugin-standard": "4.0.1",
+		"prettier": "^1.18.2"
+	},
+	"author": "Yannis Becker <yannisbecker.dev@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Steve2955/openmensa-js.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"request": "^2.88.0",
+		"request-promise-native": "^1.0.7"
+	}
+}
