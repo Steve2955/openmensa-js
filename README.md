@@ -1,8 +1,14 @@
 # openmensa-js
 
-OpenMensa is a free database for canteens. This package provides an easy point of entry to interface with the OpenMensa api in NodeJS.
+[OpenMensa](https://openmensa.org/) is a free database for canteens. This package provides an easy point of entry to interface with the OpenMensa api in NodeJS.
 
-###
+## Installation
+
+```shell
+npm install openmensa-js
+```
+
+## Example
 ```js
 const openmensa = require('openmensa-js');
 
