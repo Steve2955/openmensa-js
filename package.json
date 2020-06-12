@@ -1,6 +1,6 @@
 {
 	"name": "openmensa-js",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A node API wrapper for openmensa.org",
 	"main": "index.js",
 	"scripts": {
@@ -12,16 +12,16 @@
 		"api"
 	],
 	"devDependencies": {
-		"ava": "^2.4.0"
+		"ava": "^3.8.2"
 	},
 	"author": "Yannis Becker <yannisbecker.dev@gmail.com>",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Steve2955/openmensa-js.git"
 	},
-	"license": "GPLv3",
+	"license": "GPL-3.0-only",
 	"dependencies": {
-		"request": "^2.88.0",
-		"request-promise-native": "^1.0.7"
+		"request": "^2.88.2",
+		"request-promise-native": "^1.0.8"
 	}
 }
