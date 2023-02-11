@@ -12,7 +12,7 @@
 		"api"
 	],
 	"devDependencies": {
-		"ava": "^3.8.2"
+		"ava": "^5.2.0"
 	},
 	"author": "Yannis Becker <yannisbecker.dev@gmail.com>",
 	"repository": {
